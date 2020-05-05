@@ -1,0 +1,13 @@
+body{
+  background: black;
+  color: white;
+  align-self: center;
+}
+
+.generator{
+  background: grey;
+  color: white;
+  width: 50%;
+  margin: auto;
+  text-align: center;
+}
